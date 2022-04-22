@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Supplements.CO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="province">
+        <item>Ontario</item>
+        <item>Quebec</item>
+        <item>Nova Scotia</item>
+        <item>New Brunswick</item>
+        <item>Manitoba</item>
+        <item>British Columbia</item>
+        <item>Prince Edward Island</item>
+        <item>Saskatchewan</item>
+        <item><selected>Alberta</selected></item>
+        <item>Newfoundland and Labrador</item>
+    </string-array>
+</resources>
